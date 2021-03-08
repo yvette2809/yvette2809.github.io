@@ -6,8 +6,10 @@ color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
 ---
 
-  
-  
+<p>
+<br>
+<br>
+</p>
 
 ### Chapter 1: The Surprising Power of Atomic Habits
 
@@ -42,9 +44,11 @@ description: A very nice book to help you focus on work instead of results, proc
     a box
     a box
 
-  
-  
-  
+<p>
+<br>
+<br>
+<br>
+</p>
 
 ### Chapter 2: How your Habits Shape Your Identity (and Vice Versa)
 
