@@ -19,15 +19,9 @@ description: A very nice book to help you focus on work instead of results, proc
 3. You do not rise to the level of your goals. You fall to the level of your systems.
 
 
-  | Positive Compounding                | Negative Compounding               |
-  | :----------------------------------:|:----------------------------------:|
-  | col 3 is      | right-aligned |
-  | col 2 is      | centered      |
-  | **Use**       | `Markdown`    |
-
 <table style="width:60%">
   <tr>
-    <th></th>
+    <th>Positive Compounding </th>
     <th>Negative Compunding</th>
   </tr>
   <tr>
