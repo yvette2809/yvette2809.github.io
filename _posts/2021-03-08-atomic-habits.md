@@ -1,6 +1,6 @@
 ---
 title: Summaries & Notes - Atomic Habits
-tags: [Notes][Reading]
+tags: [Notes,Reading]
 style: fill
 color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
