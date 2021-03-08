@@ -43,7 +43,7 @@ description: A very nice book to help you focus on work instead of results, proc
     a box
     a box
 
-    ---
+---
 header-includes:
     - \usepackage[most]{tcolorbox}
     - \definecolor{light-yellow}{rgb}{1, 0.95, 0.7}
