@@ -20,7 +20,7 @@ description: A very nice book to help you focus on work instead of results, proc
 3. You do not rise to the level of your goals. You fall to the level of your systems.
 
 
-<table style="width:60%">
+<table style="width:60%" padding=30px>
   <tr>
     <th>Positive Compounding </th>
     <th>Negative Compunding</th>
