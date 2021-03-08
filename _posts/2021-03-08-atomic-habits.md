@@ -6,14 +6,12 @@ color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
 ---
 
-<!DOCTYPE html>
 <html>
    <head>
       <style>
-         table, td, th {
-            border: 1px solid black;
-            border-spacing: 20px;
-            width: 300px;
+         table {
+            width="60%"
+            margin=10px
          }
       </style>
    </head>
@@ -30,7 +28,7 @@ description: A very nice book to help you focus on work instead of results, proc
 
 3. You do not rise to the level of your goals. You fall to the level of your systems.
 
-<table margin=100px>
+<table>
   <tr>
     <th>Positive Compounding </th>
     <th>Negative Compunding</th>
