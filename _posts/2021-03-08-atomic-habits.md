@@ -55,5 +55,5 @@ description: A very nice book to help you focus on work instead of results, proc
 1. Changing our habits is challenging for 2 reasons: we try to change the wrong thing, and we try to change our habits the wrong way.
 
 2. There are 3 levels at which change can occur: outcomes, process and identity. 
-  - outcomes
+    - outcomes
 
