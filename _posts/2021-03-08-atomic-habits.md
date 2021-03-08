@@ -12,6 +12,7 @@ description: A very nice book to help you focus on work instead of results, proc
 
 ### Chapter 1: The Surprising Power of Atomic Habits
 
+--------
 1. Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient.
 
 2. If you want better results, then forget about setting goals. Focus on your system instead.
