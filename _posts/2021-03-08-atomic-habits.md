@@ -18,7 +18,24 @@ description: A very nice book to help you focus on work instead of results, proc
 
 3. You do not rise to the level of your goals. You fall to the level of your systems.
 
-
+<table style="width:60%">
+  <tr>
+    <th>Positive Compounding</th>
+    <th>Negative Compunding</th>
+  </tr>
+  <tr>
+    <td>Productivity compounds - automate an old task or master a new skill. </td>
+    <td>Stress compounds - can result in serious health issues. </td>
+  </tr>
+  <tr>
+    <td>Knowledge compounds - new knowledge opens up different ways of thinking about old ideas. </td>
+    <td>Negative thoughts compounds - negative thoughts tend to make you interpret life that way.</td>
+  </tr>
+  <tr>
+    <td>Relationship compounds - helping others is helping yourself.</td>
+    <td>Outrage compounds - microaggressions build up to riots.</td>
+  </tr>
+</table>
 
 
 
