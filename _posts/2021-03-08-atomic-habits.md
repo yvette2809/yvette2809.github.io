@@ -14,6 +14,7 @@ description: A very nice book to help you focus on work instead of results, proc
 ### Chapter 1: The Surprising Power of Atomic Habits
 
 --------
+
 1. Small changes often appear to make no difference until you cross a critical threshold. The most powerful outcomes of any compounding process are delayed. You need to be patient.
 
 2. If you want better results, then forget about setting goals. Focus on your system instead.
@@ -47,6 +48,12 @@ description: A very nice book to help you focus on work instead of results, proc
 </p>
 
 
-### Chapter 2: TBC
+### Chapter 2: How your Habits Shape Your Identity (and Vice Versa)
 
+---------
+
+1. Changing our habits is challenging for 2 reasons: we try to change the wrong thing, and we try to change our habits the wrong way.
+
+2. There are 3 levels at which change can occur: outcomes, process and identity. 
+  - outcomes
 
