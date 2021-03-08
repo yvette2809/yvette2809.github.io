@@ -39,11 +39,8 @@ description: A very nice book to help you focus on work instead of results, proc
   </tr>
 </table>
 
-<p>
-
-
-
-
-</p>
+<div> </div>
+<div> </div>
+<div> </div>
 
 ### Chapter 2: TBC
