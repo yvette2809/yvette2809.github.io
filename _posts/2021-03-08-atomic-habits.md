@@ -58,7 +58,7 @@ description: A very nice book to help you focus on work instead of results, proc
     - outcomes (what you get): goals are set at this level, e.g. losing weight, publishing a book;
     - process (what you do): habits and systems, e.g. implementing a new routine at the gym, developing a meditation practice;
     - identity (what you believe): beliefs, e.g. worldview, self-image, judgments about yourself and others.
-
+<br>
 
 3. There are a set of beliefs and assumptions that shape the system, an identity behind the habits. Behavior that is incongruent with the self will not last.
 
