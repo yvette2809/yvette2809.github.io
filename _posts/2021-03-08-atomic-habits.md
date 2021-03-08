@@ -6,18 +6,10 @@ color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
 ---
 
-<html>
-   <head>
-      <style>
-         table {
-            width="60%"
-            margin=10px
-         }
-      </style>
-   </head>
-
-
-
+<p>
+<br>
+<br>
+</p>
 
 ### Chapter 1: The Surprising Power of Atomic Habits
 
@@ -58,5 +50,3 @@ description: A very nice book to help you focus on work instead of results, proc
 ### Chapter 2: TBC
 
 
-
-</html>
