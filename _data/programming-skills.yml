@@ -4,16 +4,16 @@
 
 - name: SAS
   percentage: 35
-  color: orange
+  color: warning
 
 - name: C++
   percentage: 20
-  color: yellow
+  color: light
   
 - name: Hadoop Hive
   percentage: 90
-  color: yellow green
+  color: dark
   
 - name: Tableau
   percentage: 70
-  color: green
+  color: success
