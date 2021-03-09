@@ -6,6 +6,16 @@ color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
 ---
 
+---
+header-includes: \usepackage{xcolor}
+output: pdf_document
+---
+\sffamily\fboxrule.1em\fboxsep1em
+\fcolorbox{black}{blue!50}{\color{white}
+\begin{minipage}[c][4cm][t]{4cm}
+This is the textbox. 
+I would like a dark blue textbox with white writing.
+\end{minipage}}
 <p>
 <br>
 <br>
