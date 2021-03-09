@@ -40,9 +40,8 @@ description: A very nice book to help you focus on work instead of results, proc
   </tr>
 </table>
     
-    a box
-    a box
-    a box
+> **Notes:**
+> 
 
 <p>
 <br>
