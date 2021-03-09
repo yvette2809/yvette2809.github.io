@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I have a tri-color corgi named Happy ♋, and I used his picture on the front page. I love making Chinese cuisines 🥟, walking my dog and letting him say hi for me 🦮, and creating all kinds of handcrafts 🧩. I also spend quite some money each month to take online courses, and I know I'll become a data scientist one day! 🎉
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
