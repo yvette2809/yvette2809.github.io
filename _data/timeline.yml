@@ -2,7 +2,7 @@
   from: 2019.04
   to: present
   description: |
-              #### American Express: Sales Analytics and Strategies
+              > American Express: Sales Analytics and Strategies
               > * Built time series models to forecast 2021 card holders’ spend and provided insights to set 2021 targets for sales people
               > * Established database connection to a customer spend dashboard in Tableau server, created bash files in Unix to create database in MeMSQL server and send deployment status emails automatically
               > * Automated monthly process to update sales team targets using Python and ApacheSpark, reducing processing time by 80%
