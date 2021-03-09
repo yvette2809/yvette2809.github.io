@@ -7,7 +7,7 @@ description: A very nice book to help you focus on work instead of results, proc
 ---
 
 {% raw %}
-{% include elements/highlight.html text="I am highlighted text." %}
+heyyyyyy
 {% endraw %}
 <p>
 <br>
