@@ -21,5 +21,5 @@ I also spend quite some money each month to take online courses, and I know I'll
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline2.html %}
 </div>
