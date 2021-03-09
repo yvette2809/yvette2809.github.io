@@ -2,10 +2,18 @@
   percentage: 85
   color: danger
 
-- name: C++
-  percentage: 20
-  color:
-
 - name: SAS
   percentage: 35
-  color: dark
+  color: orange
+
+- name: C++
+  percentage: 20
+  color: yellow
+  
+- name: Hadoop Hive
+  percentage: 90
+  color: yellow green
+  
+- name: Tableau
+  percentage: 70
+  color: green
