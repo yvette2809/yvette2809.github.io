@@ -71,7 +71,7 @@ description: A very nice book to help you focus on work instead of results, proc
 
 7. The focus should always be on becoming that type of person, not a particular outcome.
 
-8. 
+8. Fundamentally, habits are not about _having_ something. They are about _becoming_ someone. Habits are the channel through which you develop your deepest beliefs about yourself.
 
 <p>
   <br>
