@@ -8,7 +8,7 @@
 
 - name: C++
   percentage: 20
-  color: light
+  color: info
   
 - name: Hadoop Hive
   percentage: 90
