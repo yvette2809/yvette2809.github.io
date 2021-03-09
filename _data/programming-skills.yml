@@ -10,7 +10,7 @@
   percentage: 20
   color: info
   
-- name: Hadoop Hive
+- name: Hadoop Hive / SQL Server
   percentage: 90
   color: dark
   
