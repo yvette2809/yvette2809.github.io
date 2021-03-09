@@ -1,13 +1,11 @@
 - title: Analyst, DIA Associates
   from: 2019.04
   to: present
-  description: - Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>
-               
-               - jlidajdaiej 
+  description: |
+              #### American Express: Sales Analytics and Strategies
+              * Built time series models to forecast 2021 card holders’ spend and provided insights to set 2021 targets for sales people
+              * Established database connection to a customer spend dashboard in Tableau server, created bash files in Unix to create database in MeMSQL server and send deployment status emails automatically
+              * Automated monthly process to update sales team targets using Python and ApacheSpark, reducing processing time by 80%
 
 - title: Graduate Student, Columbia University
   from: 2017.09
