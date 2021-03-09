@@ -57,7 +57,7 @@ description: A very nice book to help you focus on work instead of results, proc
 2. There are 3 levels at which change can occur: 
     - outcomes (what you get): goals are set at this level, e.g. losing weight, publishing a book;
     - process (what you do): habits and systems, e.g. implementing a new routine at the gym, developing a meditation practice;
-    - identity (what you believe): beliefs, e.g. worldview, self-image, judgments about yourself and others.  \  
+    - identity (what you believe): beliefs, e.g. worldview, self-image, judgments about yourself and others. \
 
 3. There are a set of beliefs and assumptions that shape the system, an identity behind the habits. Behavior that is incongruent with the self will not last.
 
@@ -69,7 +69,9 @@ description: A very nice book to help you focus on work instead of results, proc
     - decide the type of person you want to be;
     - prove it to yourself with small wins.    
 
-7. 
+7. The focus should always be on becoming that type of person, not a particular outcome.
+
+8. 
 
 <p>
   <br>
