@@ -1,5 +1,5 @@
 ---
-title: 📖Summaries & Notes - Atomic Habits
+title: 📖 Summaries & Notes - Atomic Habits
 tags: [Notes,Reading]
 style: fill
 color: light
