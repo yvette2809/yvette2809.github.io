@@ -41,7 +41,9 @@ description: A very nice book to help you focus on work instead of results, proc
 </table>
     
 > **Notes:**
+> 
 > For so many times I focused only on short-term achievements, and I've been admiring people who master Linear Algebra in a week or lose 10 lbs in a week. The pursuit of quick success blinded me for so long that I'd easily lose faith about myself each time it did not work in a short period of time.
+> 
 > Life is short indeed, but there's no need to rush. You don't wanna define your life using just a handful of big achievements. Do they truly make you happy? Or do they play a  bigger role in making you look successful? Reflecting on my life, I would definitely echo what the writer says in this chapter: it is the way to achieving goals that make you feel great; achieving goals itself does not bring as much joy as you thought it would.
 
 <p>
@@ -58,7 +60,7 @@ description: A very nice book to help you focus on work instead of results, proc
 2. There are 3 levels at which change can occur: 
     - outcomes (what you get): goals are set at this level, e.g. losing weight, publishing a book;
     - process (what you do): habits and systems, e.g. implementing a new routine at the gym, developing a meditation practice;
-    - identity (what you believe): beliefs, e.g. worldview, self-image, judgments about yourself and others. \
+    - identity (what you believe): beliefs, e.g. worldview, self-image, judgments about yourself and others.
 
 3. There are a set of beliefs and assumptions that shape the system, an identity behind the habits. Behavior that is incongruent with the self will not last.
 
