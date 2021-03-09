@@ -7,6 +7,9 @@ weight: 3
 
 # **About Me**
 
+<p>
+  <br>
+</p>
 Hi I am **{{ site.author.name }}** :wave:!
 
 I have a tri-color corgi named Happy ♋, and I used his picture on the front page. I love making Chinese cuisines 🥟, walking my dog and letting him say hi for me 🦮, and creating all kinds of handcrafts 🧩. 
