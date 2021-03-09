@@ -17,3 +17,15 @@
 - name: Tableau
   percentage: 70
   color: success
+
+- name: MS Office Suite
+  percentage: 95
+  color: dark
+
+- name: Google G Suite
+  percentage: 85
+  color: red
+
+- name: AWS
+  percentage: 50
+  color: warning
