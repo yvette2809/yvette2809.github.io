@@ -6,6 +6,9 @@ color: light
 description: A very nice book to help you focus on work instead of results, process instead of goals.
 ---
 
+{% raw %}
+{% include elements/highlight.html text="I am highlighted text." %}
+{% endraw %}
 <p>
 <br>
 <br>
